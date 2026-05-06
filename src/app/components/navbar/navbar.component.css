@@ -1,0 +1,25 @@
+.navbar {
+    height: 70px;
+    background: white;
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  input {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  img {
+    border-radius: 50%;
+  }
